@@ -9,6 +9,6 @@ https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/subn
 Resource: aws_internet_gateway
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/internet_gateway
 
-Resource: aws_internet_gateway
-https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/internet_gateway
+Data Source: aws_route_table
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/route_table
 
