@@ -12,3 +12,8 @@ https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/inte
 Data Source: aws_route_table
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/route_table
 
+Resource: aws_route_table_association
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/route_table_association
+
+Resource: aws_security_group
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/security_group
