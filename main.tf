@@ -8,7 +8,7 @@ terraform {
   }
 
    backend "s3" {
-    bucket = "joaolacerda-remote-state"
+    bucket = "joaolacerdaremotestate96"
     key    = "aws-vpc/terraform.tfstate"
     region = "us-east-1"
   }
